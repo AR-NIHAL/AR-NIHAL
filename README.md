@@ -1,4 +1,4 @@
-#####💫Hello.. <I'm Ashikur Rahman Nihal/>:
+#💫Hello.. <I'm Ashikur Rahman Nihal/>:
 
 🔭 I’m currently working on Thesis <br>👯 I’m looking to collaborate on StartUp<br>🌱 I’m currently learning AI & Machine Learning<br>💬 Ask me about<br>⚡ Fun fact 
 
