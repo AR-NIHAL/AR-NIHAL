@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
-  <img src="https://github.com/AR-NIHAL/AR-NIHAL/blob/main/gif.gif" width="300"/>
+  <img src="https://github.com/AR-NIHAL/AR-NIHAL/blob/main/gif.gif" width="900"/>
 </p>
 
 
