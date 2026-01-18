@@ -9,7 +9,7 @@
   <a href="https://github.com/AR-NIHAL?tab=repositories">Projects</a>
 </p>
 
-<div align="center" width="400">
+<div align="center" width="100">
 
 <img src="https://github.com/AR-NIHAL/AR-NIHAL/blob/main/arnihal%20cover.gif" alt="Welcome!" width="300"/>
 
