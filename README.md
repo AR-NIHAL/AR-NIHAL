@@ -11,7 +11,7 @@
 
 <div align="center" width="350">
 
-<img src="https://github.com/AR-NIHAL/AR-NIHAL/blob/main/arnihal%20cover.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/AR-NIHAL/AR-NIHAL/blob/main/arnihal%20cover.gif" alt="Welcome!" width="700"/>
 
 </div>
 
