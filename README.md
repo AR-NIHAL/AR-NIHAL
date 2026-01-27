@@ -39,7 +39,7 @@
 ### Featured projects
 - **PROJECT NAME** – 1 line problem + 1 line tech (e.g., Flutter + REST + Firebase).  
   Repo: LINK • Demo: LINK (optional)
-- **PROJECT NAME** – 1–2 lines.  
+- **PROJECT NAME** – working on it.  
   Repo: LINK
 
 ### Contact
