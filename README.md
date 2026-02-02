@@ -2,6 +2,9 @@
 <p align="center">
   Flutter & Android Developer • Dhaka, Bangladesh
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Ashikur+Rahman+Nihal;Mobile+Application+Developer;Software+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/arnihal18">LinkedIn</a> •
